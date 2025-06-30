@@ -1,0 +1,30 @@
+### final inputs and outputs
+Welcome to Smart Rock-Paper-Scissors! (type 'quit' to exit)
+Enter rock, paper, scissors (or quit to exit): scissors
+You chose scissors, computer chose paper.
+You win this round!
+Score → You: 1, Computer: 0
+
+Enter rock, paper, scissors (or quit to exit): paper
+You chose paper, computer chose scissors.
+Computer wins this round!
+Score → You: 1, Computer: 1
+
+Enter rock, paper, scissors (or quit to exit): scissors
+You chose scissors, computer chose paper.
+You win this round!
+Score → You: 2, Computer: 1
+
+Enter rock, paper, scissors (or quit to exit): scissors
+You chose scissors, computer chose rock.
+Computer wins this round!
+Score → You: 2, Computer: 2
+
+Enter rock, paper, scissors (or quit to exit): scissors
+You chose scissors, computer chose rock.
+Computer wins this round!
+Score → You: 2, Computer: 3
+
+Enter rock, paper, scissors (or quit to exit): quit
+Final Score: You 2 — Computer 3
+Thanks for playing!
