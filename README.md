@@ -1,4 +1,4 @@
-# -rock-paper-scissor-game-stax
+
 # Smart Rock-Paper-Scissors 🎮
 
 A terminal-based Python game where the computer adapts to your move patterns for a more challenging experience.
